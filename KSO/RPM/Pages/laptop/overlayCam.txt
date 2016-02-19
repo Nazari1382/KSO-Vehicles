@@ -1,0 +1,22 @@
+                                        [@y7][@x-640] Select Cameras 1 thru 8
+
+
+
+
+
+
+
+
+                                        
+
+                                        
+                                        
+
+
+
+
+
+
+                                        [@y-5][@x-640] Press 0 for Docking Camera view.  [@x-128]
+                                        
+  

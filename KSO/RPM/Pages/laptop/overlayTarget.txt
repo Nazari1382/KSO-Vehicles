@@ -1,0 +1,18 @@
+﻿ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[@x-5] Press 9 to select target.
+[@x-5] Press 0 for target intercept info.  

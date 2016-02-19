@@ -1,0 +1,22 @@
+
+                                        [@y7][@x-640] Camera 1 press 1  [@x-640]
+                                        [@y-2][@x-640] Camera 2 press 2  [@x-640]
+                                        [@y-12][@x-640] Camera 3 press 3  [@x-128]    
+                                        [@y-22][@x-640] Camera 4 press 4  [@x-128]
+                                        [@y-32][@x-640] Camera 5 press 5  [@x-128]
+                                        [@y-42][@x-640] Camera 6 press 6  [@x-128]
+                                        [@y-52][@x-640] Camera 7 press 7  [@x-128]    
+                                        [@y-62][@x-640] Camera 8 press 8  [@x-128]    
+                                        
+
+                                        [@y7][@x-640] Up to zoom camera in.
+                                        [@y-2][@x-640] Down to zoom camera out.
+
+
+
+
+
+
+                                        [@y-5][@x-640] Press 0 for Docking Camera view.  [@x-128]
+                                        
+  

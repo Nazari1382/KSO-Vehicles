@@ -1,0 +1,20 @@
+                                        [@y7][@x-640] Use arrow keys for direction. [@x-128]
+                                        
+                                        
+                                        
+                                        [@y-2][@x-640]    [@x-128]
+                                        
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+                                        [@y-12][@x-640] Press Enter to accept input.  [@x-128]
+                                        [@y-22][@x-640] Press Escape to return.   [@x-128]
+                                        [@y-32][@x-640] Press 0 to Swap. Menu for main menu.  [@x-128]

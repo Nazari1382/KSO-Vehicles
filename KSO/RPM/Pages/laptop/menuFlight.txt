@@ -1,0 +1,21 @@
+
+                                        [@y7][@x-640] Flight information press 1[@x-128]
+    
+                                        [@y-2][@x-640] Orbital display press 2[@x-128]    
+
+                                        [@y-12][@x-640] Takeoff information press 3[@x-128]    
+
+                                        [@y-22][@x-640] Landing information press 4[@x-128]
+
+                                        [@y-4][@x-640] [@x-128]
+
+
+
+
+
+
+
+
+                                        [@y5][@x-640] Press Esc to go back a page.
+                                        [@y-4][@x-640] Press Menu to return to main Menu.
+   [@x-2]      [@x4]      [@x8]      [@x12]      [@x17]      

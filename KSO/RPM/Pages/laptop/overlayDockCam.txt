@@ -1,0 +1,20 @@
+                                           
+                                        [@y7][@x-640] Select Docking Cam 1 thru 8  [@x-128]    
+                                        
+                                        
+                                        
+                                            
+                                        
+                                        
+                                        
+                                            
+                                        
+                                        
+                                            
+                                        
+                                        
+                                        
+                                            
+{2:"";"                                        ";"                                        "} REL {0:SIP_6.3}m/s      RCS {3,-3:"[#00ff00ff]ON [#ffffffff]";0;OFF}     {1:SIP_6.3}m$&$ TRGTSPEED TARGETDISTANCE TARGETEXISTS RCS 
+   
+ [@x-2] Press 0 for Docking view.  

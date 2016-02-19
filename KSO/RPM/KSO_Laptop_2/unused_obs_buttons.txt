@@ -1,0 +1,69 @@
+	PAGE
+	{
+		button = Laptop_R1X
+		name = btn11
+		text = KSO/RPM/Pages/laptop/badRedirect.txt
+	}
+
+	PAGE
+	{
+		button = Laptop_R2X
+		name = btn12
+		text = KSO/RPM/Pages/laptop/badRedirect.txt
+	}
+
+	PAGE
+	{
+		button = Laptop_R3X
+		name = btn13
+		text = KSO/RPM/Pages/laptop/badRedirect.txt
+	}
+
+	PAGE
+	{
+		button = Laptop_R4X
+		name = btn14
+		text = KSO/RPM/Pages/laptop/badRedirect.txt
+	}
+
+	PAGE
+	{
+		button = Laptop_R5X
+		name = btn15
+		text = KSO/RPM/Pages/laptop/badRedirect.txt
+	}
+
+	PAGE
+	{
+		button = Laptop_R6X
+		name = btn16
+		text = KSO/RPM/Pages/laptop/badRedirect.txt
+	}
+
+	PAGE
+	{
+		button = Laptop_R7X
+		name = btn17
+		text = KSO/RPM/Pages/laptop/badRedirect.txt
+	}
+
+	PAGE
+	{
+		button = Laptop_R8X
+		name = btn18
+		text = KSO/RPM/Pages/laptop/badRedirect.txt
+	}
+
+	PAGE
+	{
+		button = Laptop_R9X
+		name = btn19
+		text = KSO/RPM/Pages/laptop/badRedirect.txt
+	}
+
+	PAGE
+	{
+		button = Laptop_R10X
+		name = btn20
+		text = KSO/RPM/Pages/laptop/badRedirect.txt
+	}

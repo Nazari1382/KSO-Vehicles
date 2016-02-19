@@ -1,0 +1,20 @@
+                                        
+                                        
+                                        [@y7][@x-640] ScanSAT Press 1
+                                        [@y-2][@x-640] SmartASS Press 2
+                                        [@y-12][@x-640]
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        [@y5][@x-640] Press Escape to go back a page.
+                                        [@y-4][@x-640] Press Menu to return to the main menu.

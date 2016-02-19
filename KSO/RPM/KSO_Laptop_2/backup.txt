@@ -1,0 +1,15 @@
+
+MODEL
+{
+   model = KSO/Spaces/ksocmd/internal
+   position = 0.0, 0.0, 0.0
+   scale = 1.0, 1.0, 1.0
+   rotation = 0, 0, 0
+   //parent = anotherModelTransform
+   texture = KSOS_Laptop, KSO/Spaces/ksolaptop/KSOS_Laptop
+   texture = KSOS_Laptop_emis, KSO/Spaces/ksolaptop/KSOS_Laptop_emis
+   texture = KSOS_Laptop_FX, KSO/Spaces/ksolaptop/KSOS_Laptop_FX
+   texture = KSOS_Laptop_norm_NRM, KSO/Spaces/ksolaptop/KSOS_Laptop_norm_NRM
+   texture = screencover, KSO/Spaces/ksolaptop/screencover
+   texture = blank0, KSO/Spaces/ksolaptop/blank0
+}
